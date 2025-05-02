@@ -57,9 +57,6 @@ sistema-gestion-inventario/
     └── resultados_busqueda.html
 ```
 
-## 📜 Licencia  
-Este proyecto está bajo la licencia MIT.
-
 ## 🧑‍💻 Autor  
 **María José Rivas Cardona**  
 Este sistema fue desarrollado como parte de un proyecto personal para la Formación Avanzada en Desarrollo Backend (Python, Flask, Django) *(En curso)* — IBM SkillsBuild / Bejob.
