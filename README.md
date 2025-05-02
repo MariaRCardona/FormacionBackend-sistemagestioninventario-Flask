@@ -31,6 +31,8 @@ Proyecto desarrollado como parte del programa Backend Dianjo impulsado por IBM S
 
 La aplicación estará disponible en http://127.0.0.1:5000/
 
+[Demostración en YouTube](https://youtu.be/GzetAbYx980)
+
 ## 🧪 Funcionalidades
 - Página principal: Lista de productos registrados.
 - Agregar producto: Formulario para añadir nuevos artículos.
